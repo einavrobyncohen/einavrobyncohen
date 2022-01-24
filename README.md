@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences Recently graduated with excellence from "Coding Academy"- 640 hours of an intensive coding bootcamp that qualifies Full-Stack developers.
 
+- ⚡ Fun fact **I enjoy solo-travelling around the world**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/einav (robyn) cohen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="einav (robyn) cohen" height="30" width="40" /></a>
