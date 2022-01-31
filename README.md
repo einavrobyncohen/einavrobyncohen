@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Einav Cohen</h1>
 <h3 align="center">A passionate junior fullstack/frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=einavrobyncohen" alt="einavrobyncohen" /></a> </p>
-
 - 🔭 I’m currently working on [Stayinn](https://stayinn-apc.herokuapp.com/?#/)
 
 - 🌱 I’m currently learning **Angular, Ngrx, React, Redux, Vue.js, Vuex, Firebase**
