@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stayinn](https://stayinn-apc.herokuapp.com/?#/)
 
-- 🌱 I’m currently learning **Angular, Ngrx, React, Redux, Vue.js, Vuex, Firebase**
+- 🌱 I’m currently learning **Angular, Ngrx, React, Redux, Vue.js, Vuex, Firebase, Sanity.io**
 
 - 📫 How to reach me **einavsprojects@gmail.com**
 
