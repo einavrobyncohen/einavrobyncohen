@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Einav Cohen</h1>
-<h3 align="center">A passionate junior fullstack/frontend developer</h3>
+<h3 align="center">An Experienced fullstack/frontend developer</h3>
 
-- 🔭 I’m currently working on [Stayinn](https://stayinn-apc.herokuapp.com/?#/)
+- **Worked as a front-end developer** emphasizing integration and was **solely responsible** for developing a new product.
+  
+- 🔭 I’m currently pursuing an **Artificial Intelligence Bachelor's degree**
 
-- 🌱 I’m currently learning **Angular, Ngrx, React, Redux, Vue.js, Vuex, Firebase, Sanity.io**
+- 📄 **Graduated with a scholarship** for excellence from a 640 hours intensive coding bootcamp that qualifies **Full-Stack** developers.
+
+- ⚡ Fun fact **I enjoy solo-travelling around the world**
 
 - 📫 How to reach me **einavsprojects@gmail.com**
 
-- 📄 Know about my experiences Recently graduated with excellence from "Coding Academy"- 640 hours of an intensive coding bootcamp that qualifies Full-Stack developers.
-
-- ⚡ Fun fact **I enjoy solo-travelling around the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
