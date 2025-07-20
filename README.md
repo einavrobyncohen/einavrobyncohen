@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Einav Cohen</h1>
-<h3 align="center">An Experienced fullstack/frontend developer</h3>
+<h3 align="center">An Experienced fullstack/frontend developer and AI Engineer</h3>
 
 - **Worked as a front-end developer** emphasizing integration and was **solely responsible** for developing a new product.
   
